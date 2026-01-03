@@ -1,0 +1,5 @@
+{
+  "name": "Portal de Reservas Universal",
+  "description": "Un sistema de gestión de reservas con carga de categorías vía Excel y organización automática por pestañas simulando Google Sheets.",
+  "requestFramePermissions": []
+}
